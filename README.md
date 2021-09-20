@@ -6,8 +6,10 @@
 
 3. N/A
 
-4. https://www.geeksforgeeks.org/how-to-convert-a-single-character-to-string-in-cpp/
+4. Discussed ideas with Viola Kalinin
+   https://www.geeksforgeeks.org/how-to-convert-a-single-character-to-string-in-cpp/
    http://www.cplusplus.com/forum/beginner/12247/
 
 5. g++ *.cpp
    ./a.out inputfile.txt outputfile.txt
+         (this runs the program by taking in a file called inputfile.txt and outputs the translated text to a new file called outputfile.txt)
