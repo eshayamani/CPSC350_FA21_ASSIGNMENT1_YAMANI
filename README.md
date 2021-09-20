@@ -1,6 +1,6 @@
 # CPSC350_FA21_ASSIGNMENT1_YAMANI
 
-1. Esha Yamani 2377310 yamani@chapman.edu CPSC 350-03 Assignment 0: HelloWorld
+1. Esha Yamani 2377310 yamani@chapman.edu CPSC 350-03 Assignment 1: Tutnese Translation
 
 2. Model.h Model.cpp Translator.h Translator.cpp FileProcessor.h FileProcessor.cpp main.cpp inputfile.txt MakeFile
 
